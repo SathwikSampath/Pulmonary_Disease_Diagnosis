@@ -1,4 +1,4 @@
-/tmp/ipykernel_547/3048888055.py:26: DeprecationWarning: Saving I mode images as PNG is deprecated and will be removed in Pillow 13 (2026-10-15)
+60% pngs converting from .dcm
   png_image.save(png_path)
 Streaming output truncated to the last 5000 lines.
    -583  -609  -619  -646  -680  -730  -791  -835  -872  -904  -915  -891
